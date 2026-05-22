@@ -1,5 +1,3 @@
-## 🚀 GitHub Profile
-
 <h1 align="center">Hi 👋, I'm Dhalendra Gautam</h1>
 <h3 align="center">Full Stack Developer • Java Learner • Building Real-World Projects</h3>
 
