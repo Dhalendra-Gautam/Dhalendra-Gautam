@@ -1,6 +1,5 @@
 # 🚀 GitHub Profile README Design
 
-```md
 <h1 align="center">Hi 👋, I'm Dhalendra Gautam</h1>
 <h3 align="center">Frontend Developer • MERN Stack Learner • Project Builder</h3>
 
@@ -8,7 +7,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=00C2A8&center=true&vCenter=true&width=500&lines=Frontend+Developer;MERN+Stack+Learner;React+Enthusiast;Building+Cool+Projects" alt="Typing SVG" />
 </p>
 
----
 
 ## 🌟 About Me
 
@@ -18,7 +16,6 @@
 - 📱 Interested in PWA and app-like experiences
 - ⚡ Turning ideas into real projects
 
----
 
 ## 🛠️ Tech Stack
 
@@ -46,7 +43,6 @@
   <img src="https://skillicons.dev/icons?i=vercel,netlify" />
 </p>
 
----
 
 ## 🚀 Featured Projects
 
@@ -59,7 +55,6 @@
 - Backend deployed on Render
 - Installable PWA support
 
----
 
 ### 🌦️ Smart Weather Forecast
 
@@ -68,7 +63,6 @@
 - OpenWeather API integration
 - Modern animated UI
 
----
 
 ## 📊 GitHub Stats
 
@@ -81,7 +75,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dhalendra-Gautam&theme=tokyonight" />
 </p>
 
----
 
 ## 🌐 Connect With Me
 
@@ -91,11 +84,9 @@
   </a>
 </p>
 
----
 
 ## ✨ Profile Views
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Dhalendra-Gautam&label=Profile%20views&color=0e75b6&style=flat" alt="views" />
 </p>
-```
