@@ -71,14 +71,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dhalendra-Gautam&theme=tokyonight" />
 </p>
 
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Dhalendra-Gautam&theme=tokyonight&margin-w=10&margin-h=10" />
-</p>
-
-
 ## 🌐 Connect With Me
 
 <p>
