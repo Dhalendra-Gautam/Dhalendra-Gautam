@@ -1,14 +1,10 @@
 # 🚀 GitHub Profile README Design
-
-```md
 <h1 align="center">Hi 👋, I'm Dhalendra Gautam</h1>
 <h3 align="center">Full Stack Developer • Java Learner • Building Real-World Projects</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=00C2A8&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;MERN+Stack+Enthusiast;Java+FSD+Learner;Building+Projects+That+Matter" alt="Typing SVG" />
 </p>
-
----
 
 ## 🌟 About Me
 
@@ -18,8 +14,6 @@
 - 🚀 Deployed projects on **Vercel** and **Render**
 - 📱 Interested in PWA and app-like web experiences
 - ⚡ Fun fact: I enjoy turning ideas into working products
-
----
 
 ## 🛠️ Tech Stack
 
@@ -47,8 +41,6 @@
   <img src="https://skillicons.dev/icons?i=vercel,netlify" />
 </p>
 
----
-
 ## 🚀 Featured Projects
 
 ### 💰 ExpenseIQ
@@ -60,7 +52,6 @@
 - Backend deployed on Render
 - Installable PWA experience
 
----
 
 ### 🌦️ Smart Weather Forecast
 
@@ -68,8 +59,6 @@
 - Auto location detection
 - OpenWeather API integration
 - Beautiful animated weather dashboard
-
----
 
 ## 📊 GitHub Stats
 
@@ -82,7 +71,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YDhalendra-Gautam&theme=tokyonight" />
 </p>
 
----
 
 ## 🏆 GitHub Trophies
 
@@ -90,7 +78,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Dhalendra-Gautam&theme=tokyonight&margin-w=10&margin-h=10" />
 </p>
 
----
 
 ## 🌐 Connect With Me
 
@@ -107,8 +94,6 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
-
----
 
 ## ✨ Profile Views
 
