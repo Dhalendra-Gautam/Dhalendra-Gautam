@@ -119,8 +119,8 @@ A JavaScript-based memory game implementing sequence generation, event handling,
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Dhalendra-Gautam&show_icons=true&theme=tokyonight&hide_border=true" />
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Dhalendra-Gautam&layout=compact&theme=tokyonight&hide_border=true&card_width=280" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Dhalendra-Gautam&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
